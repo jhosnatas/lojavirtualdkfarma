@@ -1,0 +1,37 @@
+https://www.drogasil.com.br/dorflex-analgesico-com-50-comprimidos.html
+
+
+https://www.drogasil.com.br/dipirona-sodica-ems-gen-500mg-1x10-comprimidos.html
+
+https://www.drogasil.com.br/paracetamol-750-mg-ems-genericos-20-comprimidos.html
+
+https://www.drogasil.com.br/dipirona-sodica-50-mg-medley-generico-solucao-100-ml.html
+
+https://www.drogasil.com.br/ogestan-gold-1-2g-90-capsulas.html
+
+
+==================================================================
+Congratulations! Installed successfully!
+==================================================================
+aaPanel Internet Address: https://144.22.219.55:7800/8fd1a7c0
+aaPanel Internal Address: https://10.0.0.55:7800/8fd1a7c0
+username: cnwej5w4
+password: 1f5cb3ea
+Warning:
+If you cannot access the panel,
+release the following port (7800|888|80|443|20|21) in the security group
+==================================================================
+
+
+Firewall reloaded
+==================================================================
+Congratulations! Installed successfully!
+==================================================================
+aaPanel Internet Address: https://132.226.166.96:7800/1809fbc1
+aaPanel Internal Address: https://10.0.0.207:7800/1809fbc1
+username: mc9vivcf
+password: 8a53d6fc
+Warning:
+If you cannot access the panel,
+release the following port (7800|888|80|443|20|21) in the security group
+==================================================================
